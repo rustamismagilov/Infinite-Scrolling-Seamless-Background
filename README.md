@@ -13,13 +13,15 @@ This repository containts two examples:
 - Can be used with numerous textures 
 - Doesn't depend on the axis of movement, but the parallax effect is achieved by the number of layers and it's value
 
-#
+##
 Here's a small preview of both implementations:
 
 ##
 Camera Following
+
 [![Camera Following](https://img.youtube.com/vi/rL3RwZjD3GE/hqdefault.jpg)](https://www.youtube.com/watch?v=rL3RwZjD3GE)
 
 ##
 Infinite Scrolling
+
 [![Infinite Scrolling](https://img.youtube.com/vi/sfUft95J6Hs/hqdefault.jpg)](https://www.youtube.com/watch?v=sfUft95J6Hs)
